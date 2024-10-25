@@ -19,7 +19,7 @@ export default function PromoBanner() {
           className="bg-gradient-to-r from-purple-500 to-pink-500 text-white py-2 px-4 text-center relative"
         >
           <p className="text-sm font-medium">
-            🎉 Summer Sale! Use code SUMMER20 for 20% off all items
+            🎉 Summer Sale is here! Use code SUMMER20 for 20% off all items, hurry!
           </p>
           <button
             onClick={() => setIsVisible(false)}
